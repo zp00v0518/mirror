@@ -1,4 +1,4 @@
-const config = require('./config.js');
+const config = require('./config.js'); 
 const url = require("url");
 const {getMethod, postMethod, watchFs} = require('./myModules/tube.js')
 const http = require('http');
